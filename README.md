@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Javascript e python, embora eu já saiba o básico, html, css e mysql.
 - 💞️ No momento ainda não tenho nenhuma colaboração em um projeto, mas em um futuro próximo, pretendo fazer colaborações em projetos que estejam aqui disponiveis no
 github.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIA)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/EliasIA">
