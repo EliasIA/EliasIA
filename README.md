@@ -16,8 +16,8 @@ github.
   
   
   
-<a href="https://github.com/EliasIA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasIA&repo=github-readme-stats" />
+<a href="https://github-readme-stats-sigma-seven-75.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasIA&https://github-readme-stats-sigma-seven-75.vercel.app/" />
 </a>
 <a href="https://github.com/EliasIA/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasIA&repo=convoychat" />
