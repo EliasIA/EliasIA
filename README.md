@@ -10,7 +10,7 @@ github.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIA)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIA&show_icons=true&theme=dark&count_private=true&line_height=30px&card_width=1px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIA&show_icons=true&theme=dark&count_private=true&card_width=1px)
 
 
 
