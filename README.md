@@ -11,3 +11,11 @@ github.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasIA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasIA&layout=compact&theme=dracula"/>
 </div>
+
+  
+ <a href="https://github.com/EliasIA/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasIA&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliasIA&repo=convoychat" />
+</a>
